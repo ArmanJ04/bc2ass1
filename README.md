@@ -25,6 +25,7 @@ fn main() {
     println!("Merge Sort: {:?}", nums);
 }
 ```
-## Licence
-This project is not licensed.
+## License
+
+This project is licensed under the terms of the [MIT license](LICENSE).
 
