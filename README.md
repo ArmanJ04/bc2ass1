@@ -8,7 +8,7 @@ sorting_library = { git = "https://github.com/ArmanJ04/bc2ass1" }
 ```
 ![Screenshot 2024-04-20 163938](https://github.com/ArmanJ04/bc2ass1/assets/57132784/63e1a81e-4fdd-47d1-91eb-944aecec60cd)
 
-##Example
+## Example
 This my code for sorting using library
 ```
 use sorting_library::{Sortable, quick_sort, selection_sort, insertion_sort, merge_sort};
@@ -25,6 +25,6 @@ fn main() {
     println!("Merge Sort: {:?}", nums);
 }
 ```
-##Licence
+## Licence
 This project is not licensed.
 
